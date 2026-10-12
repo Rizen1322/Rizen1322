@@ -18,6 +18,22 @@
 </tr>
 </table>
 
+```text
+~ / rizen
+
+$ games
+  Left 4 Dead 2 · Sven Co-op · IWBTCoop
+  The Outlast Trials · Hearts of Iron IV
+
+$ currently
+  Making whatever I feel like. Hoping it pays.
+```
+
+<details>
+<summary>По-русски</summary>
+<p>Делаю то, что хочется. Хочу, чтобы это приносило деньги.</p>
+</details>
+
 ## [Aura](https://github.com/Rizen1322/InstantReplay)
 
 Save the last minutes of play with a hotkey. Replay buffer, separate game and microphone audio, clip trimming.
