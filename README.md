@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header.gif" width="100%" alt="Rizen1322. Windows apps, game mods and web projects. Animated mecha blueprint in red and lavender.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.png">
+    <img src="assets/header.gif" width="100%" alt="Rizen1322. Windows apps, game mods and web projects. Animated mecha blueprint in red and lavender.">
+  </picture>
 </p>
 
 I build Windows apps, experiment with game mods, and make web projects.

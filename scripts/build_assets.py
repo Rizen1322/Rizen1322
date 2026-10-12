@@ -98,10 +98,4 @@ def card(filename, number, title, sub, stack, accent, kind):
 
 card('aura.png','01','Aura / InstantReplay','Save the last minutes of play with a hotkey.','C# / .NET / Windows / NVENC',PURPLE,'record')
 card('l4d2-minecraft.png','02','L4D2 x Minecraft','Minecraft blocks and items inside Left 4 Dead 2.','Java / Fabric / Python / Source / ReShade',RED,'bridge')
-card('skillmart.png','03','Skillmart','A small marketplace for digital services.','Web / HTML',GREEN,'store')
-
-im,d=base(1200,64)
-d.rectangle((0,0,8,64),fill=RED)
-txt(d,(35,19),'ACTIVITY / АКТИВНОСТЬ',20,PURPLE,True)
-d.line((365,32,1150,32),fill='#453550',width=2)
-im.save(ASSETS/'activity.png')
+card('skillmart.png','03','Skillmart','A small marketplace for digital services.','HTML / JavaScript / CSS',GREEN,'store')
