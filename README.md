@@ -2,17 +2,21 @@
   <img src="assets/rei-cover.png" width="100%" alt="Rizen1322 with Rei Ayanami manga artwork.">
 </p>
 
-<p align="center">
-  I build Windows apps, game mods and web projects.<br>
-  <a href="https://t.me/fertileperson">Telegram</a> · <a href="https://github.com/Rizen1322?tab=repositories">Repositories</a>
-</p>
-
+<table>
+<tr>
+<td width="65%" valign="middle">
+<p>I build Windows apps, game mods and web projects.</p>
+<p><a href="https://t.me/fertileperson">Telegram</a> · <a href="https://github.com/Rizen1322?tab=repositories">Repositories</a></p>
 <details>
 <summary>По-русски</summary>
-
-Делаю приложения для Windows, моды для игр и веб-проекты.
-
+<p>Делаю приложения для Windows, моды для игр и веб-проекты.</p>
 </details>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="https://tenor.com/ru/view/rei-ayanami-gif-22384081"><img src="assets/rei-smile.gif" width="250" alt="Rei Ayanami smiling. GIF selected from Tenor."></a>
+</td>
+</tr>
+</table>
 
 ## [Aura](https://github.com/Rizen1322/InstantReplay)
 
