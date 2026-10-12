@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/main.yml
+      - scripts/contain_snake.py
 
 permissions:
   contents: write
@@ -21,6 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Generate the contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,6 +35,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bb4b4c&color_dots=#161b22,#27323e,#435367,#70839e,#a4b5cf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Keep the snake inside the contribution grid
+        run: python scripts/contain_snake.py dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
       - name: Publish animation to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
