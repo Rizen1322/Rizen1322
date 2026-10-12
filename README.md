@@ -13,7 +13,7 @@
 </details>
 </td>
 <td width="35%" align="center" valign="middle">
-<a href="https://tenor.com/ru/view/rei-ayanami-gif-22384081"><img src="assets/rei-smile.gif" width="250" alt="Rei Ayanami smiling. GIF selected from Tenor."></a>
+<a href="https://tenor.com/ru/view/rei-ayanami-gif-22384081"><img src="assets/rei-smile.gif" width="100%" alt="Rei Ayanami smiling. GIF selected from Tenor."></a>
 </td>
 </tr>
 </table>
