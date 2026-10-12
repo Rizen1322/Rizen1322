@@ -14,6 +14,17 @@ def contain(path):
     segments = [el for el in root.findall(SVG_NS+'rect') if 's' in el.get('class', '').split()]
     if not cells or not segments:
         raise ValueError(f'Unrecognized snake SVG: {path}')
+    # Hide the incomplete final week so every visible column has seven cells.
+    final_x = max(float(el.get('x')) for el in cells)
+    final_column = [el for el in cells if float(el.get('x')) == final_x]
+    if len(final_column) < 7:
+        cell_rect = re.compile(r'<rect\b[^>]*\bclass="c(?: [^"]*)?"[^>]*/>')
+        def remove_partial(match):
+            cell = ET.fromstring(match.group(0))
+            return '' if float(cell.get('x')) == final_x else match.group(0)
+        source = cell_rect.sub(remove_partial, source)
+        cells = [el for el in cells if float(el.get('x')) != final_x]
+        print(f'{path.name}: removed {len(final_column)} cells from the incomplete column')
     # Platane's grid uses 16px slots. Derive the slot span from its cells.
     xs = sorted({float(el.get('x')) for el in cells})
     ys = sorted({float(el.get('y')) for el in cells})
