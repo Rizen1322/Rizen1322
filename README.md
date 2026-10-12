@@ -18,16 +18,10 @@
 </tr>
 </table>
 
-```text
-~ / rizen
-
-$ games
-  Left 4 Dead 2 · Sven Co-op · IWBTCoop
-  The Outlast Trials · Hearts of Iron IV
-
-$ currently
-  Making whatever I feel like. Hoping it pays.
-```
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal.png">
+  <img src="assets/terminal.gif" width="100%" alt="Animated terminal. Games: Left 4 Dead 2, Sven Co-op, IWBTCoop, The Outlast Trials, Hearts of Iron IV. Currently: Making whatever I feel like. Hoping it pays.">
+</picture>
 
 <details>
 <summary>По-русски</summary>
