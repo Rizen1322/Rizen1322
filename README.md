@@ -61,6 +61,7 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Rizen1322/l4d2-minecraft">L4D2 × Minecraft</a></h3>
 <p>Minecraft blocks, items and mobs inside Left 4 Dead 2. Both games run together. Experimental co-op.</p>
+<a href="https://giphy.com/gifs/anime-evangelion-neon-genesis-2lAquPl05GqQ4R7YsZ"><img src="assets/rei-loop.gif" align="right" width="38%" alt="Looping Rei Ayanami animation from GIPHY."></a>
 <p><img src="assets/icons/java.svg" width="28" height="28" alt="Java" title="Java"> &nbsp; <img src="assets/icons/python.svg" width="28" height="28" alt="Python" title="Python"></p>
 <p><sub>Fabric · Source · ReShade</sub></p>
 <p><a href="https://github.com/Rizen1322/l4d2-minecraft">Source</a> · <a href="https://github.com/Rizen1322/l4d2-minecraft/releases">Releases</a></p>
@@ -73,6 +74,7 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Rizen1322/Skillmart">Skillmart</a></h3>
 <p>A small marketplace for digital services, with orders, messaging and reviews.</p>
+<a href="https://tenor.com/ru/view/rei-ayanami-ibuprofen-glitter-evangelion-gif-17967062454181406914"><img src="assets/rei-glitter.gif" align="right" width="25%" alt="Rei Ayanami glitter meme from Tenor, with the caption let's take ibuprofen together."></a>
 <p><img src="assets/icons/html5.svg" width="28" height="28" alt="HTML" title="HTML"> &nbsp; <img src="assets/icons/css3.svg" width="28" height="28" alt="CSS" title="CSS"> &nbsp; <img src="assets/icons/javascript.svg" width="28" height="28" alt="JavaScript" title="JavaScript"></p>
 <p><a href="https://github.com/Rizen1322/Skillmart">Source</a></p>
 <details>
@@ -99,8 +101,3 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
   <img width="100%" alt="Animated snake of Rizen1322's contributions in blue and red, updated daily." src="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <a href="https://giphy.com/gifs/anime-evangelion-neon-genesis-2lAquPl05GqQ4R7YsZ"><img src="assets/rei-loop.gif" height="160" alt="Looping Rei Ayanami animation from GIPHY."></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tenor.com/ru/view/rei-ayanami-ibuprofen-glitter-evangelion-gif-17967062454181406914"><img src="assets/rei-glitter.gif" height="160" alt="Rei Ayanami glitter meme from Tenor, with the caption let's take ibuprofen together."></a>
-</p>
