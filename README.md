@@ -24,9 +24,16 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 
 **[Download for Windows](https://github.com/Rizen1322/InstantReplay/releases/latest)** · [Source](https://github.com/Rizen1322/InstantReplay)
 
+<a href="https://github.com/Rizen1322/InstantReplay/releases/latest"><img src="assets/aura-release.svg" height="30" alt="Latest Aura release, updated daily."></a>
+
 <a href="https://github.com/Rizen1322/InstantReplay"><img src="assets/aura-preview.png" width="100%" alt="Aura: video settings and replay recording for Windows."></a>
 
-`C#` · `.NET` · `Windows` · `NVENC`
+<p>
+  <img src="assets/icons/csharp.svg" width="32" height="32" alt="C#" title="C#"> &nbsp;
+  <img src="assets/icons/dot-net.svg" width="32" height="32" alt=".NET" title=".NET"> &nbsp;
+  <img src="assets/icons/windows11.svg" width="32" height="32" alt="Windows" title="Windows"> &nbsp;
+  <sub>NVENC</sub>
+</p>
 
 <details>
 <summary>Описание на русском</summary>
@@ -44,7 +51,8 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Rizen1322/l4d2-minecraft">L4D2 × Minecraft</a></h3>
 <p>Minecraft blocks, items and mobs inside Left 4 Dead 2. Both games run together. Experimental co-op.</p>
-<p><code>Java</code> <code>Fabric</code> <code>Python</code> <code>Source</code></p>
+<p><img src="assets/icons/java.svg" width="28" height="28" alt="Java" title="Java"> &nbsp; <img src="assets/icons/python.svg" width="28" height="28" alt="Python" title="Python"></p>
+<p><sub>Fabric · Source · ReShade</sub></p>
 <p><a href="https://github.com/Rizen1322/l4d2-minecraft">Source</a> · <a href="https://github.com/Rizen1322/l4d2-minecraft/releases">Releases</a></p>
 <details>
 <summary>По-русски</summary>
@@ -55,7 +63,7 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Rizen1322/Skillmart">Skillmart</a></h3>
 <p>A small marketplace for digital services, with orders, messaging and reviews.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<p><img src="assets/icons/html5.svg" width="28" height="28" alt="HTML" title="HTML"> &nbsp; <img src="assets/icons/css3.svg" width="28" height="28" alt="CSS" title="CSS"> &nbsp; <img src="assets/icons/javascript.svg" width="28" height="28" alt="JavaScript" title="JavaScript"></p>
 <p><a href="https://github.com/Rizen1322/Skillmart">Source</a></p>
 <details>
 <summary>Preview / Превью</summary>

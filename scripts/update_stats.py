@@ -65,3 +65,15 @@ stamp = datetime.now(timezone.utc).strftime('%Y-%m-%d')
 text(32, 251, 'Public non-fork code · Updated '+stamp, 16, '#7e8899')
 parts.append('</svg>')
 (ROOT/'assets/github-stats.svg').write_text('\n'.join(parts), encoding='utf-8')
+
+release = api(f'repos/{USER}/InstantReplay/releases/latest')
+tag = escape(release['tag_name'])
+badge_width = 90 + max(90, len(release['tag_name']) * 9 + 24)
+badge = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{badge_width}" height="30" viewBox="0 0 {badge_width} 30" role="img" aria-labelledby="title">
+<title id="title">Aura release {tag}</title>
+<rect x=".5" y=".5" width="{badge_width-1}" height="29" rx="6" fill="#101114" stroke="#303641"/>
+<path d="M85 1V29" stroke="#303641"/>
+<text x="43" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#aeb8c8">release</text>
+<text x="{85+(badge_width-85)/2}" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#a4b5cf">{tag}</text>
+</svg>'''
+(ROOT/'assets/aura-release.svg').write_text(badge, encoding='utf-8')
