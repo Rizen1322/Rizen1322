@@ -71,8 +71,23 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 
 ## Activity
 
+<a href="https://github.com/Rizen1322?tab=repositories"><img src="assets/github-stats.svg" width="100%" alt="Public GitHub repository count, received stars, and language shares by code size. Updated daily."></a>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake.svg">
   <img width="100%" alt="Animated snake of Rizen1322's contributions in blue and red, updated daily." src="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/anime-evangelion-neon-genesis-2lAquPl05GqQ4R7YsZ"><img src="assets/rei-loop.gif" width="180" alt="Looping Rei Ayanami animation from GIPHY."></a>
+</p>
+
+<details>
+<summary>More Rei</summary>
+<p align="center">
+  <a href="https://tenor.com/ru/view/rei-ayanami-ibuprofen-glitter-evangelion-gif-17967062454181406914"><img src="assets/rei-glitter.gif" width="180" alt="Rei Ayanami glitter meme from Tenor, with the caption let's take ibuprofen together."></a>
+</p>
+</details>
