@@ -28,10 +28,6 @@ Background screen recording with a replay buffer, separate game and microphone a
 
 `Java` · `Fabric` · `Python` · `Source` · `ReShade`
 
-<a href="https://github.com/Rizen1322/l4d2-minecraft"><img src="assets/l4d2-artwork.png" width="100%" alt="Promotional illustration of Minecraft characters facing an L4D2 Tank. AI-generated project artwork, not a gameplay screenshot."></a>
-
-<sub>Project artwork, AI-generated / Промо-иллюстрация проекта, создана ИИ.</sub>
-
 Both games run together: Source handles the map and infected; Minecraft supplies blocks, items and mobs. Co-op is experimental.
 
 Обе игры работают вместе: Source отвечает за карту и заражённых, Minecraft даёт блоки, предметы и мобов. Кооператив пока экспериментальный.
