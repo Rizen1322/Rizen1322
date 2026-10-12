@@ -82,12 +82,7 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
 </picture>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/anime-evangelion-neon-genesis-2lAquPl05GqQ4R7YsZ"><img src="assets/rei-loop.gif" width="180" alt="Looping Rei Ayanami animation from GIPHY."></a>
+  <a href="https://giphy.com/gifs/anime-evangelion-neon-genesis-2lAquPl05GqQ4R7YsZ"><img src="assets/rei-loop.gif" height="160" alt="Looping Rei Ayanami animation from GIPHY."></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tenor.com/ru/view/rei-ayanami-ibuprofen-glitter-evangelion-gif-17967062454181406914"><img src="assets/rei-glitter.gif" height="160" alt="Rei Ayanami glitter meme from Tenor, with the caption let's take ibuprofen together."></a>
 </p>
-
-<details>
-<summary>More Rei</summary>
-<p align="center">
-  <a href="https://tenor.com/ru/view/rei-ayanami-ibuprofen-glitter-evangelion-gif-17967062454181406914"><img src="assets/rei-glitter.gif" width="180" alt="Rei Ayanami glitter meme from Tenor, with the caption let's take ibuprofen together."></a>
-</p>
-</details>
