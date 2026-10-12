@@ -100,4 +100,3 @@ Save the last minutes of play with a hotkey. Replay buffer, separate game and mi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake.svg">
   <img width="100%" alt="Animated snake of Rizen1322's contributions in blue and red, updated daily." src="https://raw.githubusercontent.com/Rizen1322/Rizen1322/output/github-contribution-grid-snake.svg">
 </picture>
-
