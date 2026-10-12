@@ -47,6 +47,8 @@ def contain(path):
         source, matched = pattern.subn(lambda m: m.group(1)+TRANSLATE.sub(adjust, m.group(2)), source)
         if matched != 1:
             raise ValueError(f'Missing keyframes for {ident}')
+        initial_rule = re.compile(r'(\.'+re.escape(ident)+r'\{)([^}]*)(\})')
+        source = initial_rule.sub(lambda m: m.group(1)+TRANSLATE.sub(adjust, m.group(2))+m.group(3), source)
     # Linear interpolation between bounded positions stays inside the grid.
     path.write_text(source, encoding='utf-8')
     print(f'{path.name}: constrained {changed} positions')
