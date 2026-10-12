@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.png">
-    <img src="assets/header.gif" width="100%" alt="Rizen1322. Windows apps, game mods and web projects. Animated mecha blueprint in red and lavender.">
-  </picture>
+  <img src="assets/rei-cover.png" width="100%" alt="Rizen1322. Banner using the supplied Rei Ayanami manga illustration.">
 </p>
 
 I build Windows apps, experiment with game mods, and make web projects.
@@ -13,7 +10,11 @@ I build Windows apps, experiment with game mods, and make web projects.
 
 ## Projects / Проекты
 
-<a href="https://github.com/Rizen1322/InstantReplay"><img src="assets/aura.png" width="100%" alt="01. Aura / InstantReplay. Windows replay recorder. C#, .NET, NVENC."></a>
+### [Aura / InstantReplay](https://github.com/Rizen1322/InstantReplay)
+
+`C#` · `.NET` · `Windows` · `NVENC`
+
+<a href="https://github.com/Rizen1322/InstantReplay"><img src="assets/aura-preview.png" width="100%" alt="Aura screenshot: video settings, replay duration and hardware encoding."></a>
 
 Background screen recording with a replay buffer, separate game and microphone audio, and clip trimming.
 
@@ -23,7 +24,13 @@ Background screen recording with a replay buffer, separate game and microphone a
 
 <br>
 
-<a href="https://github.com/Rizen1322/l4d2-minecraft"><img src="assets/l4d2-minecraft.png" width="100%" alt="02. L4D2 x Minecraft. Game mashup using Java, Fabric, Python, Source and ReShade."></a>
+### [L4D2 × Minecraft](https://github.com/Rizen1322/l4d2-minecraft)
+
+`Java` · `Fabric` · `Python` · `Source` · `ReShade`
+
+<a href="https://github.com/Rizen1322/l4d2-minecraft"><img src="assets/l4d2-artwork.png" width="100%" alt="Promotional illustration of Minecraft characters facing an L4D2 Tank. AI-generated project artwork, not a gameplay screenshot."></a>
+
+<sub>Project artwork, AI-generated / Промо-иллюстрация проекта, создана ИИ.</sub>
 
 Both games run together: Source handles the map and infected; Minecraft supplies blocks, items and mobs. Co-op is experimental.
 
@@ -33,7 +40,11 @@ Both games run together: Source handles the map and infected; Minecraft supplies
 
 <br>
 
-<a href="https://github.com/Rizen1322/Skillmart"><img src="assets/skillmart.png" width="100%" alt="03. Skillmart. A small marketplace for digital services. HTML, JavaScript and CSS."></a>
+### [Skillmart](https://github.com/Rizen1322/Skillmart)
+
+`HTML` · `CSS` · `JavaScript`
+
+<a href="https://github.com/Rizen1322/Skillmart"><img src="assets/skillmart-preview.png" width="100%" alt="Skillmart home page screenshot, rendered locally from the repository frontend."></a>
 
 A web project for listing digital services and placing orders, with messaging and reviews.
 
@@ -44,10 +55,6 @@ A web project for listing digital services and placing orders, with messaging an
 ## Tools / Технологии
 
 `C#` · `.NET` · `Java` · `Python` · `HTML` · `CSS` · `JavaScript`
-
-Windows capture and encoding · Fabric and Source modding · Web interfaces
-
-Захват и кодирование видео в Windows · Моды для Fabric и Source · Веб-интерфейсы
 
 ## Activity / Активность
 
