@@ -3,26 +3,26 @@
 <desc id="desc">Public repository count and received stars. Language shares are based on bytes in public non-fork repositories, excluding the profile repository.</desc>
 <rect x="1" y="1" width="798" height="268" rx="12" fill="#101114" stroke="#303641"/>
 <text x="32" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#eeeae3">Public GitHub</text>
-<text x="32" y="105" font-family="Arial, sans-serif" font-size="44" font-weight="600" fill="#eeeae3">7</text>
+<text x="32" y="105" font-family="Arial, sans-serif" font-size="44" font-weight="600" fill="#eeeae3">8</text>
 <text x="88" y="101" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#aeb8c8">repositories</text>
 <text x="430" y="105" font-family="Arial, sans-serif" font-size="44" font-weight="600" fill="#eeeae3">5</text>
 <text x="480" y="101" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#aeb8c8">received stars</text>
 <path d="M32 127H768" stroke="#303641"/>
 <text x="32" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#aeb8c8">Languages by code size</text>
-<rect x="32.00" y="177" width="453.38" height="12" fill="#9eafc9"/>
-<rect x="485.38" y="177" width="59.38" height="12" fill="#7088a7"/>
-<rect x="544.76" y="177" width="47.70" height="12" fill="#506580"/>
-<rect x="592.46" y="177" width="38.36" height="12" fill="#bb4b4c"/>
-<rect x="630.82" y="177" width="137.18" height="12" fill="#363f4e"/>
+<rect x="32.00" y="177" width="276.88" height="12" fill="#9eafc9"/>
+<rect x="308.88" y="177" width="256.42" height="12" fill="#7088a7"/>
+<rect x="565.31" y="177" width="36.26" height="12" fill="#506580"/>
+<rect x="601.57" y="177" width="33.38" height="12" fill="#bb4b4c"/>
+<rect x="634.95" y="177" width="133.05" height="12" fill="#363f4e"/>
 <circle cx="37" cy="214" r="5" fill="#9eafc9"/>
-<text x="49" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">C# 61.6%</text>
+<text x="49" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">C# 37.6%</text>
 <circle cx="192" cy="214" r="5" fill="#7088a7"/>
-<text x="204" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Java 8.1%</text>
+<text x="204" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">TypeScript 34.8%</text>
 <circle cx="347" cy="214" r="5" fill="#506580"/>
-<text x="359" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Python 6.5%</text>
+<text x="359" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Java 4.9%</text>
 <circle cx="502" cy="214" r="5" fill="#bb4b4c"/>
-<text x="514" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Squirrel 5.2%</text>
+<text x="514" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Python 4.5%</text>
 <circle cx="657" cy="214" r="5" fill="#363f4e"/>
-<text x="669" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Other 18.6%</text>
-<text x="32" y="251" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#7e8899">Public non-fork code · Updated 2026-10-22</text>
+<text x="669" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Other 18.1%</text>
+<text x="32" y="251" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#7e8899">Public non-fork code · Updated 2026-10-23</text>
 </svg>
