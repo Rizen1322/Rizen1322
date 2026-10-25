@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="180" height="30" viewBox="0 0 180 30" role="img" aria-labelledby="title">
-<title id="title">Aura release v2.0.46</title>
+<title id="title">Aura release v2.0.47</title>
 <rect x=".5" y=".5" width="179" height="29" rx="6" fill="#101114" stroke="#303641"/>
 <path d="M85 1V29" stroke="#303641"/>
 <text x="43" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#aeb8c8">release</text>
-<text x="132.5" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#a4b5cf">v2.0.46</text>
+<text x="132.5" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#a4b5cf">v2.0.47</text>
 </svg>
