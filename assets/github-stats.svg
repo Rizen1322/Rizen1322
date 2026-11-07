@@ -9,20 +9,20 @@
 <text x="480" y="101" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#aeb8c8">received stars</text>
 <path d="M32 127H768" stroke="#303641"/>
 <text x="32" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#aeb8c8">Languages by code size</text>
-<rect x="32.00" y="177" width="273.84" height="12" fill="#9eafc9"/>
-<rect x="305.84" y="177" width="259.67" height="12" fill="#7088a7"/>
-<rect x="565.51" y="177" width="43.19" height="12" fill="#506580"/>
-<rect x="608.71" y="177" width="32.92" height="12" fill="#bb4b4c"/>
-<rect x="641.63" y="177" width="126.37" height="12" fill="#363f4e"/>
+<rect x="32.00" y="177" width="270.70" height="12" fill="#9eafc9"/>
+<rect x="302.70" y="177" width="265.14" height="12" fill="#7088a7"/>
+<rect x="567.84" y="177" width="42.70" height="12" fill="#506580"/>
+<rect x="610.53" y="177" width="32.55" height="12" fill="#bb4b4c"/>
+<rect x="643.08" y="177" width="124.92" height="12" fill="#363f4e"/>
 <circle cx="37" cy="214" r="5" fill="#9eafc9"/>
-<text x="49" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">TypeScript 37.2%</text>
+<text x="49" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">TypeScript 36.8%</text>
 <circle cx="192" cy="214" r="5" fill="#7088a7"/>
-<text x="204" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">C# 35.3%</text>
+<text x="204" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">C# 36.0%</text>
 <circle cx="347" cy="214" r="5" fill="#506580"/>
-<text x="359" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">JavaScript 5.9%</text>
+<text x="359" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">JavaScript 5.8%</text>
 <circle cx="502" cy="214" r="5" fill="#bb4b4c"/>
-<text x="514" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Java 4.5%</text>
+<text x="514" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Java 4.4%</text>
 <circle cx="657" cy="214" r="5" fill="#363f4e"/>
-<text x="669" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Other 17.2%</text>
-<text x="32" y="251" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#7e8899">Public non-fork code · Updated 2026-11-06</text>
+<text x="669" y="221" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#aeb8c8">Other 17.0%</text>
+<text x="32" y="251" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#7e8899">Public non-fork code · Updated 2026-11-07</text>
 </svg>
